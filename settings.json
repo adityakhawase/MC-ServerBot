@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KittenKraft.play.hosting",
-    "port": 13192,
+    "ip": "BBC-Reworked.aternos.me",
+    "port": 28032,
     "version": "1.21.11",
     "try-creative": false
   },
