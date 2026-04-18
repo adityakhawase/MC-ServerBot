@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1",
+    "ip": "KittenKraft.play.hosting",
     "port": 7418,
     "version": "1.21.11",
     "try-creative": false
