@@ -8,7 +8,7 @@
   "server": {
     "ip": "KittenKraft.play.hosting",
     "port": 10093,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
