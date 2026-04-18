@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BBC-Reworked.aternos.me",
-    "port": 28032,
+    "ip": "127.0.0.1",
+    "port": 7418,
     "version": "1.21.11",
     "try-creative": false
   },
